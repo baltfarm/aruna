@@ -33,14 +33,6 @@ ujil
 
 =======
 >>>>>>> parent of 8462b01... commit
-
-
-
-шпгшнр
-
-
-пошп
-
 =======
 >>>>>>> parent of e1aaffa... git add -A
 =======
