@@ -11,6 +11,7 @@
 
 сегодня
 <<<<<<< HEAD
+<<<<<<< HEAD
 привет 01
 привет 02
 привет 3
@@ -32,5 +33,7 @@ ujil
 
 =======
 >>>>>>> parent of 8462b01... commit
+=======
+>>>>>>> parent of e1aaffa... git add -A
 =======
 >>>>>>> parent of e1aaffa... git add -A
