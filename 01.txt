@@ -11,6 +11,7 @@
 
 сегодня
 <<<<<<< HEAD
+<<<<<<< HEAD
 привет 01
 привет 02
 привет 3
@@ -40,5 +41,7 @@ ujil
 
 пошп
 
+=======
+>>>>>>> parent of e1aaffa... git add -A
 =======
 >>>>>>> parent of e1aaffa... git add -A
