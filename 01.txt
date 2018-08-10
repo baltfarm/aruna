@@ -45,7 +45,10 @@ ujil
 >>>>>>> parent of e1aaffa... git add -A
 =======
 >>>>>>> parent of e1aaffa... git add -A
+<<<<<<< HEAD
 изменение 1
 
 
 изменени 2
+=======
+>>>>>>> parent of 535ff9d... 03
