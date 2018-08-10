@@ -45,3 +45,4 @@ ujil
 >>>>>>> parent of e1aaffa... git add -A
 =======
 >>>>>>> parent of e1aaffa... git add -A
+изменение 1
