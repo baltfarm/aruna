@@ -46,3 +46,6 @@ ujil
 =======
 >>>>>>> parent of e1aaffa... git add -A
 изменение 1
+
+
+изменени 2
